@@ -1,1 +1,0 @@
-# progama-gerador-de-senha
